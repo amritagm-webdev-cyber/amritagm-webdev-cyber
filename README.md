@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on secure Web Applications and innovative Cybersecurity solutions.                                                                                                                                               
 
-😄 Pronouns: She/Her.                                                                                                                                                                                                   
+😄 Pronouns: She/Her.                                                                                                                                                                                                  
 
 ⚡ Fun fact: I'm a Keyboard player and good at sketching too!
 
