@@ -28,37 +28,36 @@
 
 
 ## Connect with me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](https://linkedin.com/in/https://www.linkedin.com/in/gurumoorthy-k-8a5262305/)
-[<img align="left" alt="YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" />](https://youtube.com/https://www.youtube.com/@worldofinsects824)
-[<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />](https://instagram.com/https://www.instagram.com/rv_gm_av/)
-[<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />](https://facebook.com/https://www.facebook.com/profile.php?id=61561141270840&mibextid=ZbWKwL)
+[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/amritavarshini-r-v-8015a42ba/)
+[<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />](https://www.instagram.com/muruga666666/)
+[<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />](https://www.facebook.com/profile.php?id=61561610520287&mibextid=ZbWKwL)
 
 
 <br/>
 <hr/>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gururv-cyber-webdev&layout=compact)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amritagm-webdev-cyber&layout=compact)  
 
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gururv-cyber-webdev&show_icons=true&theme=merco)](https://github.com/gururv-cyber-webdev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amritagm-webdev-cyber&show_icons=true&theme=merco)](https://github.com/amritagm-webdev-cyber)
 
 
 <br/>
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gururv-cyber-webdev&theme=merco)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amritagm-webdev-cyber&theme=merco)](https://git.io/streak-stats)
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gururv-cyber-webdev)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amritagm-webdev-cyber)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gururv-cyber-webdev&theme=dracula)](https://github.com/gururv-cyber-webdev)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amritagm-webdev-cyber&theme=dracula)](https://github.com/amritagm-webdev-cyber)
 
 
 
