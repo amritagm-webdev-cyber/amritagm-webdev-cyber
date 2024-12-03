@@ -8,4 +8,4 @@
 
 😄 Pronouns: She/Her.                                                                                                                                                                                                   
 
-⚡ Fun fact: I'm a creative thinker and love solving coding challenges!
+⚡ Fun fact: I'm a Keyboard player and good at sketching too!
